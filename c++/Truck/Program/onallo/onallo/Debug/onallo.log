@@ -1,0 +1,76 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (onallo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Camera.cpp(8,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Camera.cpp(35,23): warning C4305: '-=': truncation from 'double' to 'float'
+  framework.cpp
+  Mesh.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Mesh.cpp')
+  
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Mesh.cpp(12,19): warning C4018: '<': signed/unsigned mismatch
+  MeshCollection.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'MeshCollection.cpp')
+  
+  ObjectLoader.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'ObjectLoader.cpp')
+  
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\ObjectLoader.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+  PhongShader.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'PhongShader.cpp')
+  
+  Plain.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Plain.cpp')
+  
+  Shader.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Shader.cpp')
+  
+  feladat.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'feladat.cpp')
+  
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\feladat.cpp(26,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\feladat.cpp(30,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\feladat.cpp(48,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\feladat.cpp(48,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Terrain.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Terrain.cpp')
+  
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Terrain.cpp(19,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  TexturedShader.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'TexturedShader.cpp')
+  
+  Truck.cpp
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Texture.h(27,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Truck.cpp')
+  
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(31,121): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(32,120): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(51,121): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(52,120): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(72,116): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(73,116): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(91,116): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(92,116): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(127,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(132,32): warning C4305: '=': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(136,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(140,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(147,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(152,33): warning C4305: '=': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(156,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(160,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(167,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(186,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(190,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(277,30): warning C4305: '-=': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(294,31): warning C4305: '-=': truncation from 'double' to 'float'
+D:\referenciák\Reference\c++\Truck\Program\onallo\onallo\Truck.cpp(297,31): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+  onallo.vcxproj -> D:\referenciák\Reference\c++\Truck\Program\onallo\bin\Truck.exe
