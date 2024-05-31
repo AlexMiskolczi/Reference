@@ -21,6 +21,10 @@ https://nectanebo.itch.io/menu-buttons
 
 Mindkét program egy-egy egyetemi tárgyamra készült beadandónak.
 
+---------------
+**English:**
+---------------
+
 
 **C++:**
 The project was created in Visual Studio, and it compiles here without any modifications. The program itself implements a simple game in which we can control a truck. The controls work in the usual way with the w, a, s, d keys for the truck and the left and right arrow keys for the camera.
